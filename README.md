@@ -18,8 +18,8 @@ I hold a National Diploma in Information Technology from the Tshwane University 
 [Hire Me!](https://www.linkedin.com/in/keletsotsima/)
 
 <a href="mailto:tsimakeletso@gmail.com">![tsimakeletso@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/keletsotsima/>">![www.linkedin.com/in/keletsotsima](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="<https://wa.me/27793237520?text=We%20are%20interested%20in%20offering%20you%20a%20job/>">![27793237520](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/keletsotsima">![www.linkedin.com/in/keletsotsima](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://wa.me/27793237520?text=We%20are%20interested%20in%20offering%20you%20a%20job">![27793237520](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <!--
 **keletsotsima/keletsotsima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
