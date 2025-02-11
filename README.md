@@ -6,9 +6,11 @@ I am Keletso Tsima
 - 👨‍🎓 Recently graduated from Tshwane University Of Technology
 - 👨‍🔧 Worked as a Support Technician at Sekhukhune District Municipality
 
+<h2>Certification📜</h2>
+-  Microsoft Azure Data Fundamentals Certificate
+-  Microsoft Azure Administrator Associate Certificate (In Progress)
 
 <h2>Currently Learning👨‍💻</h2>
-
 - 🐍 Phython
 - 🖱 Git
 
